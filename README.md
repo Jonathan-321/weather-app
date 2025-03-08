@@ -13,7 +13,7 @@ A Flutter-based weather application that displays real-time weather data from a 
 
 ## Screenshots
 
-![Weather App Screenshot](screenshots/weather_app_screenshot.png)
+![Weather App Screenshot](screenshots/image.png)
 
 ## Setup Instructions
 
